@@ -62,4 +62,5 @@ h2 {
     padding-left: 10px;
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
+    border-left: 7px solid blue;
 }
